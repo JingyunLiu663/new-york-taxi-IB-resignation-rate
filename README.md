@@ -1,7 +1,7 @@
 # Study on Relationship between New York Taxi Night Rides and Investment Bank Resignation Rates
 
 ## Files in this repository 
-1. ipynb: This is a Jupyter Notebook used for analysis on Relationship between New York Taxi Night Rides and Investment Bank Resignation Rates
+1. newYorkTaxi_ibResignation.ipynb: This is a Jupyter Notebook used for analysis on Relationship between New York Taxi Night Rides and Investment Bank Resignation Rates
 2. Investment bank locations.csv: Raw data. Please refer to the Dataset section for details
 3. Job postings data.csv: Raw data. Please refer to the Dataset section for details
 4. UBSG_historical_price.csv: Raw data. Please refer to the Dataset section for details
