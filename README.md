@@ -16,3 +16,5 @@ The company column: Name of the investment bank.
 
 Investment bank locations.csv: We identified 16 investment banks in New York (including branches). GPS data comes from Google map, which you can use to locate these investment banks.
 
+### Stock Price Data
+This stock price data was collected using Yahoo!Finance's API. However, not all the data for UBS is available on Yahoo!Finance, so additional data was collected and kept in "UBSG_historical_price.csv".
