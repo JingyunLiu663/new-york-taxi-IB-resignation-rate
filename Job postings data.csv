@@ -1,0 +1,594 @@
+﻿month,total number of job postings,company
+12-Jan,5,Barclays
+12-Feb,1,Barclays
+12-Mar,14,Barclays
+12-Apr,7,Barclays
+12-May,11,Barclays
+12-Jun,3,Barclays
+12-Jul,4,Barclays
+12-Aug,4,Barclays
+12-Sep,5,Barclays
+12-Oct,10,Barclays
+12-Nov,4,Barclays
+12-Dec,4,Barclays
+13-Jan,69,Barclays
+13-Feb,44,Barclays
+13-Mar,74,Barclays
+13-Apr,243,Barclays
+13-May,153,Barclays
+13-Jun,332,Barclays
+13-Jul,47,Barclays
+13-Aug,70,Barclays
+13-Sep,61,Barclays
+13-Oct,85,Barclays
+13-Nov,90,Barclays
+13-Dec,140,Barclays
+14-Jan,106,Barclays
+14-Feb,87,Barclays
+14-Mar,324,Barclays
+14-Apr,169,Barclays
+14-May,195,Barclays
+14-Jun,156,Barclays
+14-Jul,394,Barclays
+14-Aug,216,Barclays
+14-Sep,265,Barclays
+14-Oct,140,Barclays
+14-Nov,146,Barclays
+14-Dec,36,Barclays
+15-Jan,265,Barclays
+15-Feb,223,Barclays
+15-Mar,198,Barclays
+15-Apr,192,Barclays
+15-May,156,Barclays
+15-Jun,115,Barclays
+15-Jul,138,Barclays
+15-Aug,134,Barclays
+15-Sep,72,Barclays
+15-Oct,80,Barclays
+15-Nov,45,Barclays
+15-Dec,2,Barclays
+16-Jan,13,Barclays
+16-Feb,19,Barclays
+16-Mar,14,Barclays
+16-Apr,13,Barclays
+16-May,33,Barclays
+16-Jun,42,Barclays
+12-Jan,154,Citigroup
+12-Feb,322,Citigroup
+12-Mar,351,Citigroup
+12-Apr,367,Citigroup
+12-May,333,Citigroup
+12-Jun,367,Citigroup
+12-Jul,335,Citigroup
+12-Aug,337,Citigroup
+12-Sep,198,Citigroup
+12-Oct,424,Citigroup
+12-Nov,152,Citigroup
+12-Dec,158,Citigroup
+13-Jan,379,Citigroup
+13-Feb,290,Citigroup
+13-Mar,323,Citigroup
+13-Apr,308,Citigroup
+13-May,128,Citigroup
+13-Jun,182,Citigroup
+13-Jul,1159,Citigroup
+13-Aug,893,Citigroup
+13-Sep,879,Citigroup
+13-Oct,730,Citigroup
+13-Nov,745,Citigroup
+13-Dec,551,Citigroup
+14-Jan,699,Citigroup
+14-Feb,708,Citigroup
+14-Mar,745,Citigroup
+14-Apr,616,Citigroup
+14-May,465,Citigroup
+14-Jun,420,Citigroup
+14-Jul,472,Citigroup
+14-Aug,537,Citigroup
+14-Sep,1185,Citigroup
+14-Oct,417,Citigroup
+14-Nov,237,Citigroup
+14-Dec,168,Citigroup
+15-Jan,119,Citigroup
+15-Feb,409,Citigroup
+15-Mar,319,Citigroup
+15-Apr,862,Citigroup
+15-May,641,Citigroup
+15-Jun,368,Citigroup
+15-Jul,792,Citigroup
+15-Aug,372,Citigroup
+15-Sep,382,Citigroup
+15-Oct,676,Citigroup
+15-Nov,386,Citigroup
+15-Dec,331,Citigroup
+16-Jan,364,Citigroup
+16-Feb,563,Citigroup
+16-Mar,460,Citigroup
+16-Apr,616,Citigroup
+16-May,589,Citigroup
+16-Jun,375,Citigroup
+12-Jan,7,Goldman.Sachs
+12-Feb,5,Goldman.Sachs
+12-Mar,6,Goldman.Sachs
+12-Apr,8,Goldman.Sachs
+12-May,21,Goldman.Sachs
+12-Jun,9,Goldman.Sachs
+12-Jul,93,Goldman.Sachs
+12-Aug,53,Goldman.Sachs
+12-Sep,63,Goldman.Sachs
+12-Oct,78,Goldman.Sachs
+12-Nov,71,Goldman.Sachs
+12-Dec,100,Goldman.Sachs
+13-Jan,83,Goldman.Sachs
+13-Feb,93,Goldman.Sachs
+13-Mar,46,Goldman.Sachs
+13-Apr,81,Goldman.Sachs
+13-May,92,Goldman.Sachs
+13-Jun,92,Goldman.Sachs
+13-Jul,69,Goldman.Sachs
+13-Aug,72,Goldman.Sachs
+13-Sep,124,Goldman.Sachs
+13-Oct,109,Goldman.Sachs
+13-Nov,95,Goldman.Sachs
+13-Dec,90,Goldman.Sachs
+14-Jan,96,Goldman.Sachs
+14-Feb,162,Goldman.Sachs
+14-Mar,172,Goldman.Sachs
+14-Apr,234,Goldman.Sachs
+14-May,175,Goldman.Sachs
+14-Jun,218,Goldman.Sachs
+14-Jul,166,Goldman.Sachs
+14-Aug,185,Goldman.Sachs
+14-Sep,260,Goldman.Sachs
+14-Oct,178,Goldman.Sachs
+14-Nov,107,Goldman.Sachs
+14-Dec,148,Goldman.Sachs
+15-Jan,175,Goldman.Sachs
+15-Feb,139,Goldman.Sachs
+15-Mar,187,Goldman.Sachs
+15-Apr,168,Goldman.Sachs
+15-May,164,Goldman.Sachs
+15-Jun,466,Goldman.Sachs
+15-Jul,355,Goldman.Sachs
+15-Aug,292,Goldman.Sachs
+15-Sep,302,Goldman.Sachs
+15-Oct,249,Goldman.Sachs
+15-Nov,262,Goldman.Sachs
+15-Dec,293,Goldman.Sachs
+16-Jan,322,Goldman.Sachs
+16-Feb,229,Goldman.Sachs
+16-Mar,154,Goldman.Sachs
+16-Apr,164,Goldman.Sachs
+16-May,109,Goldman.Sachs
+16-Jun,102,Goldman.Sachs
+12-Jan,309,JPMorgan.Chase
+12-Feb,558,JPMorgan.Chase
+12-Mar,634,JPMorgan.Chase
+12-Apr,260,JPMorgan.Chase
+12-May,665,JPMorgan.Chase
+12-Jun,634,JPMorgan.Chase
+12-Jul,653,JPMorgan.Chase
+12-Aug,520,JPMorgan.Chase
+12-Sep,503,JPMorgan.Chase
+12-Oct,932,JPMorgan.Chase
+12-Nov,282,JPMorgan.Chase
+12-Dec,344,JPMorgan.Chase
+13-Jan,470,JPMorgan.Chase
+13-Feb,376,JPMorgan.Chase
+13-Mar,620,JPMorgan.Chase
+13-Apr,770,JPMorgan.Chase
+13-May,606,JPMorgan.Chase
+13-Jun,283,JPMorgan.Chase
+13-Jul,1201,JPMorgan.Chase
+13-Aug,928,JPMorgan.Chase
+13-Sep,926,JPMorgan.Chase
+13-Oct,711,JPMorgan.Chase
+13-Nov,773,JPMorgan.Chase
+13-Dec,451,JPMorgan.Chase
+14-Jan,783,JPMorgan.Chase
+14-Feb,892,JPMorgan.Chase
+14-Mar,1799,JPMorgan.Chase
+14-Apr,1325,JPMorgan.Chase
+14-May,1313,JPMorgan.Chase
+14-Jun,745,JPMorgan.Chase
+14-Jul,791,JPMorgan.Chase
+14-Aug,1074,JPMorgan.Chase
+14-Sep,1332,JPMorgan.Chase
+14-Oct,916,JPMorgan.Chase
+14-Nov,1064,JPMorgan.Chase
+14-Dec,979,JPMorgan.Chase
+15-Jan,733,JPMorgan.Chase
+15-Feb,1366,JPMorgan.Chase
+15-Mar,1145,JPMorgan.Chase
+15-Apr,1097,JPMorgan.Chase
+15-May,1515,JPMorgan.Chase
+15-Jun,929,JPMorgan.Chase
+15-Jul,1021,JPMorgan.Chase
+15-Aug,1038,JPMorgan.Chase
+15-Sep,889,JPMorgan.Chase
+15-Oct,1388,JPMorgan.Chase
+15-Nov,999,JPMorgan.Chase
+15-Dec,752,JPMorgan.Chase
+16-Jan,1169,JPMorgan.Chase
+16-Feb,778,JPMorgan.Chase
+16-Mar,1901,JPMorgan.Chase
+16-Apr,1510,JPMorgan.Chase
+16-May,1480,JPMorgan.Chase
+16-Jun,1094,JPMorgan.Chase
+12-Jan,59,Morgan.Stanley
+12-Feb,92,Morgan.Stanley
+12-Mar,136,Morgan.Stanley
+12-Apr,173,Morgan.Stanley
+12-May,188,Morgan.Stanley
+12-Jun,160,Morgan.Stanley
+12-Jul,129,Morgan.Stanley
+12-Aug,115,Morgan.Stanley
+12-Sep,99,Morgan.Stanley
+12-Oct,134,Morgan.Stanley
+12-Nov,90,Morgan.Stanley
+12-Dec,95,Morgan.Stanley
+13-Jan,56,Morgan.Stanley
+13-Feb,175,Morgan.Stanley
+13-Mar,182,Morgan.Stanley
+13-Apr,145,Morgan.Stanley
+13-May,259,Morgan.Stanley
+13-Jun,254,Morgan.Stanley
+13-Jul,284,Morgan.Stanley
+13-Aug,234,Morgan.Stanley
+13-Sep,163,Morgan.Stanley
+13-Oct,134,Morgan.Stanley
+13-Nov,214,Morgan.Stanley
+13-Dec,200,Morgan.Stanley
+14-Jan,152,Morgan.Stanley
+14-Feb,262,Morgan.Stanley
+14-Mar,357,Morgan.Stanley
+14-Apr,265,Morgan.Stanley
+14-May,225,Morgan.Stanley
+14-Jun,171,Morgan.Stanley
+14-Jul,174,Morgan.Stanley
+14-Aug,219,Morgan.Stanley
+14-Sep,419,Morgan.Stanley
+14-Oct,178,Morgan.Stanley
+14-Nov,116,Morgan.Stanley
+14-Dec,36,Morgan.Stanley
+15-Jan,24,Morgan.Stanley
+15-Feb,20,Morgan.Stanley
+15-Mar,34,Morgan.Stanley
+15-Apr,16,Morgan.Stanley
+15-May,523,Morgan.Stanley
+15-Jun,214,Morgan.Stanley
+15-Jul,186,Morgan.Stanley
+15-Aug,285,Morgan.Stanley
+15-Sep,346,Morgan.Stanley
+15-Oct,834,Morgan.Stanley
+15-Nov,85,Morgan.Stanley
+15-Dec,96,Morgan.Stanley
+16-Jan,107,Morgan.Stanley
+16-Feb,33,Morgan.Stanley
+16-Mar,196,Morgan.Stanley
+16-Apr,99,Morgan.Stanley
+16-May,167,Morgan.Stanley
+16-Jun,131,Morgan.Stanley
+12-Jan,39,RBC.Capital.Markets
+12-Feb,31,RBC.Capital.Markets
+12-Mar,56,RBC.Capital.Markets
+12-Apr,33,RBC.Capital.Markets
+12-May,48,RBC.Capital.Markets
+12-Jun,20,RBC.Capital.Markets
+12-Jul,2,RBC.Capital.Markets
+12-Aug,1,RBC.Capital.Markets
+12-Sep,1,RBC.Capital.Markets
+12-Oct,1,RBC.Capital.Markets
+12-Nov,2,RBC.Capital.Markets
+12-Dec,4,RBC.Capital.Markets
+13-Jan,20,RBC.Capital.Markets
+13-Feb,23,RBC.Capital.Markets
+13-Mar,15,RBC.Capital.Markets
+13-Apr,3,RBC.Capital.Markets
+13-May,2,RBC.Capital.Markets
+13-Jun,49,RBC.Capital.Markets
+13-Jul,34,RBC.Capital.Markets
+13-Aug,39,RBC.Capital.Markets
+13-Sep,100,RBC.Capital.Markets
+13-Oct,60,RBC.Capital.Markets
+13-Nov,34,RBC.Capital.Markets
+13-Dec,53,RBC.Capital.Markets
+14-Jan,60,RBC.Capital.Markets
+14-Feb,36,RBC.Capital.Markets
+14-Mar,92,RBC.Capital.Markets
+14-Apr,60,RBC.Capital.Markets
+14-May,44,RBC.Capital.Markets
+14-Jun,30,RBC.Capital.Markets
+14-Jul,65,RBC.Capital.Markets
+14-Aug,47,RBC.Capital.Markets
+14-Sep,97,RBC.Capital.Markets
+14-Oct,40,RBC.Capital.Markets
+14-Nov,13,RBC.Capital.Markets
+14-Dec,34,RBC.Capital.Markets
+15-Jan,85,RBC.Capital.Markets
+15-Feb,49,RBC.Capital.Markets
+15-Mar,87,RBC.Capital.Markets
+15-Apr,69,RBC.Capital.Markets
+15-May,56,RBC.Capital.Markets
+15-Jun,76,RBC.Capital.Markets
+15-Jul,59,RBC.Capital.Markets
+15-Aug,74,RBC.Capital.Markets
+15-Sep,42,RBC.Capital.Markets
+15-Oct,39,RBC.Capital.Markets
+15-Nov,50,RBC.Capital.Markets
+15-Dec,46,RBC.Capital.Markets
+16-Jan,102,RBC.Capital.Markets
+16-Feb,90,RBC.Capital.Markets
+16-Mar,65,RBC.Capital.Markets
+16-Apr,48,RBC.Capital.Markets
+16-May,36,RBC.Capital.Markets
+16-Jun,71,RBC.Capital.Markets
+12-Jan,94,bank.of.america
+12-Feb,91,bank.of.america
+12-Mar,111,bank.of.america
+12-Apr,112,bank.of.america
+12-May,118,bank.of.america
+12-Jun,116,bank.of.america
+12-Jul,101,bank.of.america
+12-Aug,97,bank.of.america
+12-Sep,116,bank.of.america
+12-Oct,89,bank.of.america
+12-Nov,41,bank.of.america
+12-Dec,73,bank.of.america
+13-Jan,252,bank.of.america
+13-Feb,219,bank.of.america
+13-Mar,312,bank.of.america
+13-Apr,223,bank.of.america
+13-May,287,bank.of.america
+13-Jun,386,bank.of.america
+13-Jul,247,bank.of.america
+13-Aug,422,bank.of.america
+13-Sep,466,bank.of.america
+13-Oct,536,bank.of.america
+13-Nov,353,bank.of.america
+13-Dec,406,bank.of.america
+14-Jan,497,bank.of.america
+14-Feb,392,bank.of.america
+14-Mar,815,bank.of.america
+14-Apr,372,bank.of.america
+14-May,414,bank.of.america
+14-Jun,456,bank.of.america
+14-Jul,455,bank.of.america
+14-Aug,434,bank.of.america
+14-Sep,610,bank.of.america
+14-Oct,373,bank.of.america
+14-Nov,242,bank.of.america
+14-Dec,175,bank.of.america
+15-Jan,472,bank.of.america
+15-Feb,377,bank.of.america
+15-Mar,641,bank.of.america
+15-Apr,638,bank.of.america
+15-May,507,bank.of.america
+15-Jun,593,bank.of.america
+15-Jul,561,bank.of.america
+15-Aug,533,bank.of.america
+15-Sep,581,bank.of.america
+15-Oct,489,bank.of.america
+15-Nov,517,bank.of.america
+15-Dec,350,bank.of.america
+16-Jan,436,bank.of.america
+16-Feb,406,bank.of.america
+16-Mar,346,bank.of.america
+16-Apr,350,bank.of.america
+16-May,488,bank.of.america
+16-Jun,364,bank.of.america
+12-Jan,27,credit.suisse
+12-Feb,29,credit.suisse
+12-Mar,50,credit.suisse
+12-Apr,46,credit.suisse
+12-May,22,credit.suisse
+12-Jun,102,credit.suisse
+12-Jul,52,credit.suisse
+12-Aug,69,credit.suisse
+12-Sep,52,credit.suisse
+12-Oct,46,credit.suisse
+12-Nov,43,credit.suisse
+12-Dec,45,credit.suisse
+13-Jan,8,credit.suisse
+13-Feb,8,credit.suisse
+13-Mar,5,credit.suisse
+13-Apr,4,credit.suisse
+13-May,10,credit.suisse
+13-Jun,7,credit.suisse
+13-Jul,17,credit.suisse
+13-Aug,45,credit.suisse
+13-Sep,22,credit.suisse
+13-Oct,28,credit.suisse
+13-Nov,12,credit.suisse
+13-Dec,16,credit.suisse
+14-Jan,6,credit.suisse
+14-Feb,6,credit.suisse
+14-Mar,11,credit.suisse
+14-Apr,7,credit.suisse
+14-May,4,credit.suisse
+14-Jun,1,credit.suisse
+14-Jul,6,credit.suisse
+14-Aug,11,credit.suisse
+14-Sep,11,credit.suisse
+14-Oct,18,credit.suisse
+14-Nov,2,credit.suisse
+14-Dec,10,credit.suisse
+15-Jan,4,credit.suisse
+15-Feb,3,credit.suisse
+15-Mar,9,credit.suisse
+15-Apr,5,credit.suisse
+15-May,12,credit.suisse
+15-Jun,10,credit.suisse
+15-Jul,9,credit.suisse
+15-Aug,227,credit.suisse
+15-Sep,94,credit.suisse
+15-Oct,83,credit.suisse
+15-Nov,89,credit.suisse
+15-Dec,78,credit.suisse
+16-Jan,51,credit.suisse
+16-Feb,91,credit.suisse
+16-Mar,106,credit.suisse
+16-Apr,85,credit.suisse
+16-May,71,credit.suisse
+16-Jun,81,credit.suisse
+12-Jan,4,deutsche.bank
+12-Feb,9,deutsche.bank
+12-Mar,12,deutsche.bank
+12-Apr,5,deutsche.bank
+12-May,17,deutsche.bank
+12-Jun,11,deutsche.bank
+12-Jul,5,deutsche.bank
+12-Aug,0,deutsche.bank
+12-Sep,12,deutsche.bank
+12-Oct,5,deutsche.bank
+12-Nov,4,deutsche.bank
+12-Dec,6,deutsche.bank
+13-Jan,5,deutsche.bank
+13-Feb,1,deutsche.bank
+13-Mar,7,deutsche.bank
+13-Apr,5,deutsche.bank
+13-May,6,deutsche.bank
+13-Jun,9,deutsche.bank
+13-Jul,17,deutsche.bank
+13-Aug,6,deutsche.bank
+13-Sep,93,deutsche.bank
+13-Oct,79,deutsche.bank
+13-Nov,72,deutsche.bank
+13-Dec,28,deutsche.bank
+14-Jan,21,deutsche.bank
+14-Feb,49,deutsche.bank
+14-Mar,42,deutsche.bank
+14-Apr,13,deutsche.bank
+14-May,4,deutsche.bank
+14-Jun,4,deutsche.bank
+14-Jul,11,deutsche.bank
+14-Aug,5,deutsche.bank
+14-Sep,132,deutsche.bank
+14-Oct,11,deutsche.bank
+14-Nov,9,deutsche.bank
+14-Dec,175,deutsche.bank
+15-Jan,29,deutsche.bank
+15-Feb,2,deutsche.bank
+15-Mar,33,deutsche.bank
+15-Apr,109,deutsche.bank
+15-May,264,deutsche.bank
+15-Jun,166,deutsche.bank
+15-Jul,147,deutsche.bank
+15-Aug,230,deutsche.bank
+15-Sep,182,deutsche.bank
+15-Oct,233,deutsche.bank
+15-Nov,193,deutsche.bank
+15-Dec,66,deutsche.bank
+16-Jan,25,deutsche.bank
+16-Feb,48,deutsche.bank
+16-Mar,242,deutsche.bank
+16-Apr,239,deutsche.bank
+16-May,170,deutsche.bank
+16-Jun,78,deutsche.bank
+12-Jan,64,the.bank.of.new.york.mellon
+12-Feb,78,the.bank.of.new.york.mellon
+12-Mar,137,the.bank.of.new.york.mellon
+12-Apr,122,the.bank.of.new.york.mellon
+12-May,115,the.bank.of.new.york.mellon
+12-Jun,123,the.bank.of.new.york.mellon
+12-Jul,137,the.bank.of.new.york.mellon
+12-Aug,86,the.bank.of.new.york.mellon
+12-Sep,88,the.bank.of.new.york.mellon
+12-Oct,173,the.bank.of.new.york.mellon
+12-Nov,70,the.bank.of.new.york.mellon
+12-Dec,101,the.bank.of.new.york.mellon
+13-Jan,109,the.bank.of.new.york.mellon
+13-Feb,148,the.bank.of.new.york.mellon
+13-Mar,122,the.bank.of.new.york.mellon
+13-Apr,45,the.bank.of.new.york.mellon
+13-May,87,the.bank.of.new.york.mellon
+13-Jun,51,the.bank.of.new.york.mellon
+13-Jul,321,the.bank.of.new.york.mellon
+13-Aug,184,the.bank.of.new.york.mellon
+13-Sep,266,the.bank.of.new.york.mellon
+13-Oct,168,the.bank.of.new.york.mellon
+13-Nov,175,the.bank.of.new.york.mellon
+13-Dec,140,the.bank.of.new.york.mellon
+14-Jan,184,the.bank.of.new.york.mellon
+14-Feb,104,the.bank.of.new.york.mellon
+14-Mar,260,the.bank.of.new.york.mellon
+14-Apr,175,the.bank.of.new.york.mellon
+14-May,117,the.bank.of.new.york.mellon
+14-Jun,181,the.bank.of.new.york.mellon
+14-Jul,63,the.bank.of.new.york.mellon
+14-Aug,184,the.bank.of.new.york.mellon
+14-Sep,111,the.bank.of.new.york.mellon
+14-Oct,99,the.bank.of.new.york.mellon
+14-Nov,92,the.bank.of.new.york.mellon
+14-Dec,70,the.bank.of.new.york.mellon
+15-Jan,83,the.bank.of.new.york.mellon
+15-Feb,130,the.bank.of.new.york.mellon
+15-Mar,193,the.bank.of.new.york.mellon
+15-Apr,156,the.bank.of.new.york.mellon
+15-May,89,the.bank.of.new.york.mellon
+15-Jun,126,the.bank.of.new.york.mellon
+15-Jul,131,the.bank.of.new.york.mellon
+15-Aug,262,the.bank.of.new.york.mellon
+15-Sep,164,the.bank.of.new.york.mellon
+15-Oct,155,the.bank.of.new.york.mellon
+15-Nov,134,the.bank.of.new.york.mellon
+15-Dec,205,the.bank.of.new.york.mellon
+16-Jan,82,the.bank.of.new.york.mellon
+16-Feb,132,the.bank.of.new.york.mellon
+16-Mar,236,the.bank.of.new.york.mellon
+16-Apr,206,the.bank.of.new.york.mellon
+16-May,132,the.bank.of.new.york.mellon
+16-Jun,260,the.bank.of.new.york.mellon
+12-Jan,22,ubs
+12-Feb,13,ubs
+12-Mar,23,ubs
+12-Apr,18,ubs
+12-May,14,ubs
+12-Jun,11,ubs
+12-Jul,21,ubs
+12-Aug,11,ubs
+12-Sep,6,ubs
+12-Oct,15,ubs
+12-Nov,8,ubs
+12-Dec,8,ubs
+13-Jan,21,ubs
+13-Feb,19,ubs
+13-Mar,18,ubs
+13-Apr,44,ubs
+13-May,33,ubs
+13-Jun,55,ubs
+13-Jul,19,ubs
+13-Aug,16,ubs
+13-Sep,21,ubs
+13-Oct,28,ubs
+13-Nov,23,ubs
+13-Dec,22,ubs
+14-Jan,21,ubs
+14-Feb,27,ubs
+14-Mar,114,ubs
+14-Apr,68,ubs
+14-May,49,ubs
+14-Jun,57,ubs
+14-Jul,39,ubs
+14-Aug,41,ubs
+14-Sep,54,ubs
+14-Oct,53,ubs
+14-Dec,6,ubs
+15-Jan,67,ubs
+15-Feb,32,ubs
+15-Mar,57,ubs
+15-Apr,42,ubs
+15-May,35,ubs
+15-Jun,46,ubs
+15-Jul,56,ubs
+15-Aug,21,ubs
+15-Sep,51,ubs
+15-Oct,43,ubs
+15-Nov,39,ubs
+15-Dec,40,ubs
+16-Jan,21,ubs
+16-Feb,28,ubs
+16-Mar,19,ubs
+16-Apr,9,ubs
+16-May,62,ubs
+16-Jun,17,ubs
